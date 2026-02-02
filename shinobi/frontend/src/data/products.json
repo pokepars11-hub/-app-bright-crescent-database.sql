@@ -1,0 +1,437 @@
+{
+  "products": [
+    {
+      "id": "coffee-espresso-machine-001",
+      "slug": "coffee-espresso-machine",
+      "name": "Coffee Espresso Machine",
+      "category": "kitchen-coffee",
+      "categoryLabel": "Kitchen / Coffee",
+      "shortDescription": "Professional espresso machine with advanced brewing technology",
+      "longDescription": "Experience café-quality espresso at home with our flagship coffee machine. Featuring precise temperature control, multiple brew settings, and sleek design that complements any kitchen.",
+      "images": [
+        "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800&q=80",
+        "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&q=80",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80"
+      ],
+      "highlights": [
+        "15-bar Italian pump for authentic espresso",
+        "Dual heating system for optimal extraction",
+        "Built-in milk frother for cappuccinos and lattes",
+        "Large 1.5L water tank",
+        "Easy-clean removable drip tray"
+      ],
+      "specs": {
+        "Power": "1450W",
+        "Voltage": "220-240V",
+        "Pump Pressure": "15 bar",
+        "Water Tank": "1.5L",
+        "Material": "Stainless Steel",
+        "Dimensions": "30 x 20 x 32 cm",
+        "Weight": "4.5 kg",
+        "Warranty": "2 Years",
+        "What's in the box": "Espresso machine, portafilter, measuring spoon, tamper, user manual"
+      },
+      "buyLinks": {
+        "amazon": "https://www.amazon.ae/dp/B0FVM2WB2J/ref=smop_skuctr_view",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "How long does it take to heat up?",
+          "answer": "The machine heats up in approximately 45-60 seconds."
+        },
+        {
+          "question": "Can I use ground coffee or only pods?",
+          "answer": "This machine is designed for ground coffee, giving you full control over your brew."
+        },
+        {
+          "question": "Is it easy to clean?",
+          "answer": "Yes, the drip tray and water tank are removable for easy cleaning."
+        }
+      ],
+      "featured": true,
+      "newLaunch": true
+    },
+    {
+      "id": "vacuum-jar-001",
+      "slug": "vacuum-jar-coffee-storage",
+      "name": "Vacuum Jar for Coffee Storage",
+      "category": "kitchen-coffee",
+      "categoryLabel": "Kitchen / Coffee",
+      "shortDescription": "Keep your coffee beans fresh with vacuum-seal technology",
+      "longDescription": "Premium vacuum storage container designed to preserve the freshness and aroma of your coffee beans. Features one-way valve technology and airtight seal.",
+      "images": [
+        "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&q=80",
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80"
+      ],
+      "highlights": [
+        "Vacuum-seal technology keeps beans fresh longer",
+        "One-way CO2 valve releases gases",
+        "Airtight and watertight seal",
+        "BPA-free food-grade materials",
+        "Holds up to 500g of coffee beans"
+      ],
+      "specs": {
+        "Capacity": "500g / 1.8L",
+        "Material": "Stainless Steel + BPA-free plastic",
+        "Dimensions": "12 x 12 x 18 cm",
+        "Weight": "450g",
+        "Color": "Black/Silver",
+        "Warranty": "1 Year",
+        "What's in the box": "Vacuum jar, lid with valve, user manual"
+      },
+      "buyLinks": {
+        "amazon": "https://www.amazon.ae/dp/B0FH2SX5FZ/ref=smop_skuctr_view",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "How does the vacuum seal work?",
+          "answer": "Simply press down on the lid to create a vacuum seal that locks in freshness."
+        },
+        {
+          "question": "Can I store other items besides coffee?",
+          "answer": "Yes, it's perfect for tea, nuts, dried fruits, and other dry goods."
+        }
+      ],
+      "featured": false,
+      "newLaunch": true
+    },
+    {
+      "id": "hand-press-coffee-001",
+      "slug": "hand-press-coffee-maker",
+      "name": "Hand Press Coffee Maker",
+      "category": "kitchen-coffee",
+      "categoryLabel": "Kitchen / Coffee",
+      "shortDescription": "Portable manual coffee press for rich, smooth coffee anywhere",
+      "longDescription": "Compact and portable coffee press perfect for travel, camping, or office. Brew rich, full-bodied coffee with simple hand-press action. No electricity needed.",
+      "images": [
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=800&q=80",
+        "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&q=80"
+      ],
+      "highlights": [
+        "Manual hand-press brewing system",
+        "Portable and lightweight design",
+        "Makes 1-2 cups per press",
+        "No electricity or batteries required",
+        "Easy to clean and maintain",
+        "Perfect for travel and outdoor use"
+      ],
+      "specs": {
+        "Capacity": "250ml",
+        "Material": "Food-grade plastic + Stainless Steel",
+        "Dimensions": "7 x 7 x 20 cm",
+        "Weight": "280g",
+        "Color": "Black/Grey",
+        "Warranty": "1 Year",
+        "What's in the box": "Hand press coffee maker, travel bag, user manual"
+      },
+      "buyLinks": {
+        "amazon": "",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "How much pressure is needed?",
+          "answer": "Minimal pressure - simply press down steadily for 30-45 seconds."
+        },
+        {
+          "question": "Can I make espresso with this?",
+          "answer": "It makes concentrated coffee similar to espresso, though not as strong as a machine."
+        }
+      ],
+      "featured": true,
+      "newLaunch": true
+    },
+    {
+      "id": "fan-heating-cooling-001",
+      "slug": "fan-heating-cooling",
+      "name": "Fan with Heating & Cooling",
+      "category": "home-appliances",
+      "categoryLabel": "Home Appliances",
+      "shortDescription": "Multi-function fan with both heating and cooling modes",
+      "longDescription": "Year-round comfort with our innovative 2-in-1 fan. Cool breeze in summer, warm air in winter. Features smart temperature control and energy-efficient operation.",
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+        "https://images.unsplash.com/photo-1593359863503-f598fe6e8e28?w=800&q=80"
+      ],
+      "highlights": [
+        "Dual function: cooling and heating",
+        "3 speed settings for customized comfort",
+        "Remote control included",
+        "Oscillation feature for wider coverage",
+        "Energy-efficient PTC heating element",
+        "Safety overheat protection"
+      ],
+      "specs": {
+        "Power": "2000W (heating) / 45W (cooling)",
+        "Voltage": "220-240V",
+        "Heating Range": "Up to 25°C",
+        "Coverage Area": "20-30 sqm",
+        "Material": "ABS Plastic",
+        "Dimensions": "25 x 25 x 70 cm",
+        "Weight": "3.2 kg",
+        "Warranty": "2 Years",
+        "What's in the box": "Fan heater, remote control, user manual"
+      },
+      "buyLinks": {
+        "amazon": "https://www.amazon.ae/dp/B0FMKG7N9Y/ref=smop_skuctr_view",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "How quickly does it heat a room?",
+          "answer": "It can heat a small to medium room (20 sqm) in about 10-15 minutes."
+        },
+        {
+          "question": "Is it safe to leave on overnight?",
+          "answer": "Yes, it has overheat protection, but we recommend using the timer function."
+        }
+      ],
+      "featured": true,
+      "newLaunch": false
+    },
+    {
+      "id": "mini-refrigerator-001",
+      "slug": "small-mini-refrigerator",
+      "name": "Small Mini Refrigerator",
+      "category": "home-appliances",
+      "categoryLabel": "Home Appliances",
+      "shortDescription": "Compact mini fridge perfect for bedroom, office, or dorm",
+      "longDescription": "Space-saving mini refrigerator with efficient cooling and quiet operation. Ideal for personal use in bedrooms, offices, dorms, or small apartments.",
+      "images": [
+        "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=800&q=80",
+        "https://images.unsplash.com/photo-1584473457493-bc32b0d0c6f8?w=800&q=80"
+      ],
+      "highlights": [
+        "Compact 50L capacity",
+        "Energy-efficient cooling system",
+        "Ultra-quiet operation (< 30dB)",
+        "Adjustable temperature control",
+        "Removable shelves for flexibility",
+        "Reversible door design"
+      ],
+      "specs": {
+        "Capacity": "50 Liters",
+        "Power": "70W",
+        "Voltage": "220-240V",
+        "Temperature Range": "0-10°C",
+        "Noise Level": "< 30dB",
+        "Material": "Steel + ABS",
+        "Dimensions": "47 x 44 x 51 cm",
+        "Weight": "15 kg",
+        "Warranty": "2 Years",
+        "What's in the box": "Mini refrigerator, 2 shelves, ice tray, user manual"
+      },
+      "buyLinks": {
+        "amazon": "",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "Can it freeze items?",
+          "answer": "It has a small freezer compartment suitable for ice trays and light freezing."
+        },
+        {
+          "question": "How energy efficient is it?",
+          "answer": "Very efficient at only 70W, costing minimal electricity to run."
+        }
+      ],
+      "featured": false,
+      "newLaunch": false
+    },
+    {
+      "id": "air-fryer-001",
+      "slug": "digital-air-fryer",
+      "name": "Digital Air Fryer",
+      "category": "home-appliances",
+      "categoryLabel": "Home Appliances",
+      "shortDescription": "Healthy cooking with 360° air circulation technology",
+      "longDescription": "Cook your favorite fried foods with up to 80% less fat. Features digital controls, multiple preset cooking programs, and large capacity for family meals.",
+      "images": [
+        "https://images.unsplash.com/photo-1585237672815-05536683b5c6?w=800&q=80",
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
+      ],
+      "highlights": [
+        "5.5L large capacity",
+        "360° rapid air circulation",
+        "8 preset cooking programs",
+        "Digital touchscreen controls",
+        "Non-stick removable basket",
+        "Auto shut-off safety feature"
+      ],
+      "specs": {
+        "Capacity": "5.5 Liters",
+        "Power": "1700W",
+        "Voltage": "220-240V",
+        "Temperature Range": "80-200°C",
+        "Timer": "0-60 minutes",
+        "Material": "Stainless Steel + Non-stick coating",
+        "Dimensions": "36 x 28 x 31 cm",
+        "Weight": "5 kg",
+        "Warranty": "2 Years",
+        "What's in the box": "Air fryer, frying basket, recipe book, user manual"
+      },
+      "buyLinks": {
+        "amazon": "",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "Is it easy to clean?",
+          "answer": "Yes, the basket and tray are non-stick and dishwasher safe."
+        },
+        {
+          "question": "Can I cook frozen food directly?",
+          "answer": "Absolutely! The air fryer handles frozen foods perfectly."
+        }
+      ],
+      "featured": true,
+      "newLaunch": false
+    },
+    {
+      "id": "portable-power-box-001",
+      "slug": "portable-power-station",
+      "name": "Portable Power Box",
+      "category": "accessories",
+      "categoryLabel": "Accessories",
+      "shortDescription": "Portable power station for outdoor and emergency use",
+      "longDescription": "High-capacity portable power station perfect for camping, outdoor activities, and emergency backup. Multiple output ports for all your devices.",
+      "images": [
+        "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&q=80",
+        "https://images.unsplash.com/photo-1625335966551-781b5a0ac1fb?w=800&q=80"
+      ],
+      "highlights": [
+        "300Wh lithium battery capacity",
+        "Multiple outputs: AC, USB, USB-C, DC",
+        "Solar panel compatible",
+        "LED flashlight built-in",
+        "Portable with carry handle",
+        "LCD display shows power status"
+      ],
+      "specs": {
+        "Battery Capacity": "300Wh (81000mAh)",
+        "AC Output": "220V, 300W",
+        "USB Ports": "2x USB-A, 1x USB-C PD",
+        "DC Output": "12V/5A",
+        "Charging Time": "6-7 hours (wall adapter)",
+        "Weight": "3.5 kg",
+        "Dimensions": "23 x 15 x 17 cm",
+        "Warranty": "1 Year",
+        "What's in the box": "Power station, AC adapter, car charging cable, user manual"
+      },
+      "buyLinks": {
+        "amazon": "",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "How many charges can it provide for a smartphone?",
+          "answer": "Approximately 20-25 full charges depending on phone battery capacity."
+        },
+        {
+          "question": "Can I charge it with solar panels?",
+          "answer": "Yes, it's compatible with solar panels (sold separately)."
+        }
+      ],
+      "featured": false,
+      "newLaunch": false
+    },
+    {
+      "id": "fan-filter-001",
+      "slug": "replacement-fan-filter",
+      "name": "Filter for Fan (Replacement)",
+      "category": "accessories",
+      "categoryLabel": "Accessories",
+      "shortDescription": "High-efficiency replacement filter for SHINOBI fans",
+      "longDescription": "Genuine SHINOBI replacement filter designed for optimal air purification. Compatible with our heating & cooling fan models. Easy to install.",
+      "images": [
+        "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80"
+      ],
+      "highlights": [
+        "High-efficiency filtration",
+        "Captures dust, pollen, and allergens",
+        "Easy snap-in installation",
+        "Washable and reusable",
+        "Compatible with SHINOBI fan models",
+        "Recommended replacement: every 3-6 months"
+      ],
+      "specs": {
+        "Type": "HEPA-grade filter",
+        "Filtration": "99% of particles > 0.3 microns",
+        "Material": "Multi-layer fiber mesh",
+        "Dimensions": "20 x 20 x 2 cm",
+        "Weight": "50g",
+        "Color": "White",
+        "Warranty": "6 Months",
+        "What's in the box": "1x Replacement filter, installation guide"
+      },
+      "buyLinks": {
+        "amazon": "",
+        "noon": "",
+        "shopify": "",
+        "carrefour": ""
+      },
+      "faq": [
+        {
+          "question": "How often should I replace the filter?",
+          "answer": "We recommend every 3-6 months depending on usage and air quality."
+        },
+        {
+          "question": "Can I wash and reuse this filter?",
+          "answer": "Yes, gently vacuum or rinse with water and let dry completely before reinstalling."
+        }
+      ],
+      "featured": false,
+      "newLaunch": false
+    }
+  ],
+  "_template": {
+    "id": "unique-product-id",
+    "slug": "url-friendly-name",
+    "name": "Product Display Name",
+    "category": "kitchen-coffee | home-appliances | accessories",
+    "categoryLabel": "Kitchen / Coffee | Home Appliances | Accessories",
+    "shortDescription": "Brief one-line description for product cards",
+    "longDescription": "Detailed description for product detail page",
+    "images": ["image-url-1", "image-url-2", "image-url-3"],
+    "highlights": ["Feature 1", "Feature 2", "Feature 3"],
+    "specs": {
+      "Power": "Value",
+      "Voltage": "Value",
+      "Material": "Value",
+      "Dimensions": "Value",
+      "Weight": "Value",
+      "Warranty": "Value",
+      "What's in the box": "Value"
+    },
+    "buyLinks": {
+      "amazon": "https://... or empty string",
+      "noon": "https://... or empty string",
+      "shopify": "https://... or empty string",
+      "carrefour": "https://... or empty string"
+    },
+    "faq": [
+      {
+        "question": "Question text",
+        "answer": "Answer text"
+      }
+    ],
+    "featured": true,
+    "newLaunch": false
+  }
+}
